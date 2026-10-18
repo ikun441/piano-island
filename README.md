@@ -3,7 +3,7 @@
 基于 HTML、CSS、JavaScript、Three.js 与 Web Audio 的静态交互教程。
 
 ## 在线访问
-你可以直接访问**https://piano-island.craftydrake.chatgpt.site**尝试本项目
+你可以直接访问  **https://piano-island.craftydrake.chatgpt.site**  尝试本项目
 
 ## 本地运行
 
