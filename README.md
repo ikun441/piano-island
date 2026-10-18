@@ -2,6 +2,9 @@
 
 基于 HTML、CSS、JavaScript、Three.js 与 Web Audio 的静态交互教程。
 
+## 在线访问
+你可以直接访问**https://piano-island.craftydrake.chatgpt.site**尝试本项目
+
 ## 本地运行
 
 在项目目录运行：
@@ -22,7 +25,7 @@ python3 -m http.server 8765 --directory dist
 
 ## 最后一章与作品导入
 
-第 15 章默认加载用户提供的《圣诞快乐，劳伦斯先生》钢琴 MIDI（dist/assets/merry-christmas-mr-lawrence.mid），生成双谱表并同步高亮页面与 3D 琴键。仍可导入其他 MIDI。页面键盘支持横向滚动，初始定位中央 C。
+第 15 章默认加载《圣诞快乐，劳伦斯先生》钢琴 MIDI（dist/assets/merry-christmas-mr-lawrence.mid），生成双谱表并同步高亮页面与 3D 琴键。仍可导入其他 MIDI。页面键盘支持横向滚动，初始定位中央 C。
 
 支持标准 MIDI 格式 0/1、PPQ 时基、running status、速度变化、力度和 CC64 延音；忽略鼓轨。所有轨道合并，音高 C4 及以上置于高音谱表，其余置于低音谱表。MIDI 仅在浏览器本地解析，不上传。限制 2 MB、20,000 音符、4,000 个归一化四分音符拍。
 
