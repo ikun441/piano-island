@@ -36,3 +36,7 @@ python3 -m http.server 8765 --directory dist
 已做 JavaScript 语法校验、MIDI 时值/running status/延音/速度/错误文件解析校验，并在 Safari 检查模型显示与示范播放。移动端采用响应式样式，尚未在真实移动设备上验证。
 
 Three.js 0.158.0 已随项目附带，许可见 dist/vendor/THREE-LICENSE.txt。中文网页字体从 Google Fonts 尝试加载，离线时使用系统宋体。除可选字体外，无运行时网络依赖。
+
+## 社群
+![Uploading 微信图片_20261030190348_75_72.jpg…]()
+
