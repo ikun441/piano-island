@@ -38,5 +38,6 @@ python3 -m http.server 8765 --directory dist
 Three.js 0.158.0 已随项目附带，许可见 dist/vendor/THREE-LICENSE.txt。中文网页字体从 Google Fonts 尝试加载，离线时使用系统宋体。除可选字体外，无运行时网络依赖。
 
 ## 社群
-![Uploading 微信图片_20261030190348_75_72.jpg…]()
+<img width="1284" height="2283" alt="微信图片_20261030190348_75_72" src="https://github.com/user-attachments/assets/8756a6b4-94c5-4b49-a461-9365a9a134b9" />
+
 
